@@ -1,0 +1,1 @@
+#Questão1a=22;b=173;c=74;d=55;equal1 = a + ((a*b)/c) * ((a*b*(a+d)^2)/sqrt(mod(a,b)));equal2 = (d*exp(d/2)) + (((a*d+c*d)/((25/a)+(35/b)))/(a+b+c+d));equal3 = ((a*b*c*d)*(sqrt(a)))/(a+2*sqrt(b*nthroot(3,d)+5));equal4 = log10(e)+(a^-a)+log(a*b*c*d);disp(equal1);disp(equal2);disp(equal3);disp(equal4);
